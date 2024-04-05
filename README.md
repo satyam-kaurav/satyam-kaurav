@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @satyam-kaurav ;
-- 👀 I’m interested in c++,android,flutter ;
-- 🌱 I’m currently learning flutter ;
+- 👀 I’m interested in rest APIs,rust,javascript ;
+- 🌱 I’m currently learning rust ;
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me satyam_031@outlook.com
 
