@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @satyam-kaurav ;
 - 👀 I’m interested in rest APIs,rust,javascript ;
 - 🌱 I’m currently learning rust ;
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on my rust line add tool to make it proper todo app
 - 📫 How to reach me satyam_031@outlook.com
 
 <!---
